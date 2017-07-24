@@ -61,7 +61,7 @@ make modifications, and submit a pull request.
 
 ---
 
-The source for this minimal tutorial is [on github](https://github.com/kbroman/simple_site).
+The source for this minimal tutorial is [on github](https://github.com/zhiguangxu/simple_site).
 
 Also see my [tutorials](http://kbroman.org/pages/tutorials) on
 [git/github](http://kbroman.org/github_tutorial),
