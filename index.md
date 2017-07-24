@@ -1,7 +1,7 @@
 ---
 layout: page
-title: my simple site
-tagline: Easy websites with GitHub Pages
+title: vim settings
+tagline: Default vim settings forked from jordanhudgens/vim-settings
 description: Testing how to build a Github page by following the minimal tutorial on making a simple website with GitHub Pages
 ---
 
@@ -61,7 +61,7 @@ make modifications, and submit a pull request.
 
 ---
 
-The source for this minimal tutorial is [on github](https://github.com/zhiguangxu/my_simple_site/).
+The source for this minimal tutorial is [on github](https://github.com/zhiguangxu/vim-settings/).
 
 Also see my [tutorials](http://kbroman.org/pages/tutorials) on
 [git/github](http://kbroman.org/github_tutorial),
