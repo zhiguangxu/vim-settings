@@ -2,7 +2,7 @@
 layout: page
 title: vim settings
 tagline: Default vim settings forked from jordanhudgens/vim-settings
-description: Testing how to build a Github page by following the minimal tutorial on making a simple website with GitHub Pages
+description: Testing how to build a Github page by following the minimal tutorial on making a simple website with GitHub Pages. It is just a test of Github pages.
 ---
 
 [Github Pages](https://pages.github.com) provide a simple way to make a
